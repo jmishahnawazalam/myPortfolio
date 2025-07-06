@@ -136,9 +136,11 @@ a:hover {
 .hamburger-icon span:first-child {
   transform: none;
 }
+
 .hamburger-icon span:first-child {
   opacity: 1;
 }
+
 .hamburger-icon span:first-child {
   transform: none;
 }
@@ -181,6 +183,11 @@ section {
 .section__text p {
   font-weight: 600;
 }
+
+.text-container p {
+  text-align: justify;
+}
+
 
 .section__text__p1 {
   text-align: center;

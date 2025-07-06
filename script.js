@@ -5,3 +5,6 @@ function toggleMenu() {
   menu.classList.toggle("open");
   icon.classList.toggle("open");
 }
+
+let year = new Date().getFullYear();
+document.querySelector('#year').innerHTML = year;
